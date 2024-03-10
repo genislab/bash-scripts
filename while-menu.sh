@@ -5,6 +5,8 @@
 
 
 
+
+
 # while-menu: a menu driven system information program
 DELAY=1 # Number of seconds to display results
 while true; do
